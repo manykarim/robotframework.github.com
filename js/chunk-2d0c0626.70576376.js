@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0626"],{"420b":function(n,t,e){"use strict";e.r(t),t["default"]="<html>\n    <head></head>\n    <body>\n        <h1>\n            A site\n        </h1>\n        <p>\n            Welcome!\n        </p>\n        <button>\n            click me plz\n        </button>\n    </body>\n</html>\n"}}]);

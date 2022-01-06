@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21ddd8"],{d2b6:function(n,e,o){"use strict";o.r(e),e["default"]='# Live editor: Hello world\n\nIn the editor below you\'ll find a basic Robot Framework setup. Feel free to play around with it!\n\n## Run it online!\n\nYou can run the test in a WASM Python environment by pressing "Run"\n'}}]);

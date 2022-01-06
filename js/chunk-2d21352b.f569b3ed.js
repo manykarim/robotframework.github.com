@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21352b"],{abd8:function(n,o,s){"use strict";s.r(o),o["default"]="/* eslint-disable */\nconsole.log('hello js')\nconst foo = bar;\n"}}]);
